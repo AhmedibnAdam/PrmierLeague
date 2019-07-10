@@ -1,0 +1,6 @@
+framework module Pods_PrmierLeagueTests {
+  umbrella header "Pods-PrmierLeagueTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
